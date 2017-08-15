@@ -1,0 +1,55 @@
+
+.intro_wrap{
+	max-width: 900px;
+	margin:  auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.button_intro{
+	display: flex;
+	justify-content: center;
+}
+
+#button_intro{
+	width: 200px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	border: 1px solid black;
+	border-radius: 4px;
+	text-align: center;
+	
+}
+.questionnaire{
+	max-width: 770px;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+}
+.question{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
+.reponse{
+	display: flex;
+	justify-content: center;
+}
+label{
+	margin: 0 10px 0 10px;
+  border:2px solid red;
+}
+
+
+.chiffre{
+	text-align: center;
+}
+.gradient{
+	display: flex;
+	flex-direction: column;
+}
+
+#el08 { /* Change width and height */
+width:4em;
+height:4em;
+}
